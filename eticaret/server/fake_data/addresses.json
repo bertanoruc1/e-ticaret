@@ -1,0 +1,82 @@
+[
+    {
+        "adrid": 11,
+        "user_id": 1,
+        "street": "Gonca Sokak",
+        "counrty":"Türkiye",
+        "province":"Konya",
+        "district":"cihanbeyli"
+    },
+    {
+        "adrid": 12,
+        "user_id": 2,
+        "street": "Menekşe Sokak",
+        "counrty":"Türkiye",
+        "province":"Ankara",
+        "district":"Mamak"
+    },
+    {
+        "adrid": 13,
+        "user_id": 3,
+        "street": "Zafer Sokak",
+        "counrty":"Türkiye",
+        "province":"İstanbul",
+        "district":"Arnavut Köy"
+    },
+    {
+        "adrid": 14,
+        "user_id": 4,
+        "street": "İstiklal Sokak",
+        "counrty":"Türkiye",
+        "province":"Şırnak",
+        "district":"İdil"
+    },
+    {
+        "adrid": 15,
+        "user_id": 5,
+        "street": "Manolya Sokak",
+        "counrty":"Türkiye",
+        "province":"Konya",
+        "district":"Kulu"
+    },
+    {
+        "adrid": 16,
+        "user_id": 6,
+        "street": "Hayrettin Sokak",
+        "counrty":"Türkiye",
+        "province":"Erzincan",
+        "district":"Tercan"
+    },
+    {
+        "adrid": 17,
+        "user_id": 7,
+        "street": "Dereler Sokak",
+        "counrty":"Türkiye",
+        "province":"Trabzon",
+        "district":"Arsin"
+    },
+    {
+        "adrid": 18,
+        "user_id": 8,
+        "street": "Şırnak Sokak",
+        "counrty":"Türkiye",
+        "province":"Elazığ",
+        "district":"Kovancılar"
+    },
+    {
+        "adrid": 19,
+        "user_id": 9,
+        "street": "Kardelen Sokak",
+        "counrty":"Türkiye",
+        "province":"Erzurum",
+        "district":"Aşkale"
+    },
+    {
+        "id": 0,
+        "user_id": 10,
+        "street": "Gülerler Sokak",
+        "counrty":"Türkiye",
+        "province":"Tokat",
+        "district":"Erbaa"
+    }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 2,
+    "name": "Guido",
+    "surname": "Kerluke",
+    "email": "Makenzie.Aufderhar@hotmail.com",
+    "phone": "1-256-888-9899 x6673",
+    "created_at": 1724093329172
+  },
+  {
+    "id": 3,
+    "name": "Freddie",
+    "surname": "Johnson",
+    "email": "Jakayla49@yahoo.com",
+    "phone": "771.585.7067 x697",
+    "created_at": 1724093329777
+  },
+  {
+    "id": 4,
+    "name": "Gudrun",
+    "surname": "Aufderhar",
+    "email": "Felton.Morissette@gmail.com",
+    "phone": "1-540-425-3603 x684",
+    "created_at": 1724093330379
+  },
+  {
+    "id": 5,
+    "name": "Saul",
+    "surname": "Walker",
+    "email": "Charles10@hotmail.com",
+    "phone": "(411) 481-8178",
+    "created_at": 1724093330968
+  },
+  {
+    "id": 6,
+    "name": "Geraldine",
+    "surname": "Feest",
+    "email": "Everett27@yahoo.com",
+    "phone": "311-674-3442",
+    "created_at": 1724093331588
+  },
+  {
+    "id": 7,
+    "name": "Lavina",
+    "surname": "Swift",
+    "email": "Darion_Quigley37@hotmail.com",
+    "phone": "(896) 705-7494 x14550",
+    "created_at": 1724093332192
+  },
+  {
+    "id": 8,
+    "name": "Marge",
+    "surname": "Goldner",
+    "email": "Makenzie_Hoppe36@hotmail.com",
+    "phone": "714.940.8548",
+    "created_at": 1724093332872
+  },
+  {
+    "id": 9,
+    "name": "Jamey",
+    "surname": "Johnson",
+    "email": "Danika5@hotmail.com",
+    "phone": "1-990-844-2743 x175",
+    "created_at": 1724093333443
+  },
+  {
+    "id": 10,
+    "name": "Aditya",
+    "surname": "Schuppe",
+    "email": "Rickie90@hotmail.com",
+    "phone": "1-367-302-6122",
+    "created_at": 1724093334005
+  }
+]

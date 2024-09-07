@@ -1,0 +1,155 @@
+[
+  {
+    "productcode": 131,
+    "name": "Ayakkabı",
+    "desc.": "Esnek Günlük kullanıma uygun yormayan spor ayakbalırımızdır.",
+    "shoe_number": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "colors": [
+      "Beyaz",
+      "Siyah",
+      "Kırmızı",
+      "Sarı"
+    ],
+    "price": "135 TL"
+  },
+  {
+    "productcode": 132,
+    "name": "t-shirt",
+    "body": [
+      "M",
+      "L",
+      "XL",
+      "X"
+    ],
+    "desc.": "Yırtılmaz esnek yapıya sahip kumaşlardan üretilmiştir.",
+    "colors": [
+      "Beyaz",
+      "Siyah",
+      "Kırmızı",
+      "Sarı",
+      "Mor"
+    ],
+    "price": "95 TL"
+  },
+  {
+    "productcode": 133,
+    "name": "pants",
+    "desc.": "Keten kumaştan yapılmış olup rahat kullanıma uygundur.",
+    "pants_number": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "colors": [
+      "Beyaz",
+      "Siyah",
+      "Mavi",
+      "Yeşil",
+      "Haki",
+      "Gri"
+    ],
+    "price": "195 TL"
+  },
+  {
+    "productcode": 134,
+    "name": "bluose",
+    "desc.": "Ürünümüz Hafif kumaştan yapılmışstır.",
+    "body": [
+      "M",
+      "L",
+      "XL",
+      "X"
+    ],
+    "colors": [
+      "Beyaz",
+      "Siyah",
+      "Mavi",
+      "Yeşil",
+      "Pembe"
+    ],
+    "price": "155 TL"
+  },
+  {
+    "productcode": 135,
+    "name": "skirt",
+    "desc.": "Ürününümüz kuamştan ve rahat kullanıma açıktır.",
+    "body": [
+      "M",
+      "L",
+      "XL",
+      "X"
+    ],
+    "colors": [
+      "Beyaz",
+      "Siyah",
+      "Mavi",
+      "Yeşil",
+      "Gri"
+    ],
+    "price": "100 TL"
+  },
+  {
+    "id": 1,
+    "category": "erkek",
+    "name": "spor ayakabı",
+    "description": "günlük kulanımı uygun",
+    "price": "123 tl",
+    "colors": "White",
+    "sizes": "White",
+    "created_at": 1724941676072
+  },
+  {
+    "id": 137,
+    "category": "erkek",
+    "name": "spor ayakabı",
+    "description": "günlük kulanımı uygun",
+    "price": "123 tl",
+    "colors": "White",
+    "sizes": "White",
+    "created_at": 1724941735167
+  },
+  {
+    "id": 139,
+    "category": "erkek",
+    "name": "spor ayakabı",
+    "description": "günlük kulanımı uygun",
+    "price": "123 tl",
+    "colors": "White",
+    "sizes": "White",
+    "created_at": 1724942045574
+  },
+  {
+    "id": 9,
+    "productcode": 140,
+    "category": "erkek",
+    "name": "spor ayakabı",
+    "description": "günlük kulanımı uygun",
+    "price": "123 tl",
+    "colors": "White",
+    "sizes": "White",
+    "created_at": 1724942148212
+  },
+  {
+    "id": 10,
+    "productcode": 140,
+    "category": "erkek",
+    "name": "spor ayakabı",
+    "description": "günlük kulanımı uygun",
+    "price": "123 tl",
+    "colors": "White",
+    "sizes": "White",
+    "created_at": 1724942156467
+  }
+]
+  

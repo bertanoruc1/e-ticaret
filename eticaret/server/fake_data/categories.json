@@ -1,0 +1,50 @@
+[
+  {
+    "cateNo": 2,
+    "gender": "Male",
+    "name": "Clothing",
+    "created_at": 1725655795445
+  },
+  {
+    "cateNo": 3,
+    "gender": "Female",
+    "name": "Clothing",
+    "created_at": 1725655796387
+  },
+  {
+    "cateNo": 4,
+    "gender": "Female",
+    "name": "Grocery",
+    "created_at": 1725655797248
+  },
+  {
+    "cateNo": 5,
+    "gender": "Female",
+    "name": "Grocery",
+    "created_at": 1725655798006
+  },
+  {
+    "cateNo": 6,
+    "gender": "Female",
+    "name": "Toys",
+    "created_at": 1725655876651
+  },
+  {
+    "cateNo": 15,
+    "gender": "Female",
+    "name": "Kids",
+    "created_at": 1725656266866
+  },
+  {
+    "cateNo": 16,
+    "gender": "Female",
+    "name": "Sports",
+    "created_at": 1725657935529
+  },
+  {
+    "cateNo": 17,
+    "gender": "Female",
+    "name": "Beauty",
+    "created_at": 1725657953206
+  }
+]
